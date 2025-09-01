@@ -1,5 +1,10 @@
 ## Changelog de main
 
+- Merge pull request #8 from tareas-jco/feature/sample-pr
+
+feat: Update README.md (ae2538f)
+- feat: Update README.md (38205e5)
+- Actualiza changelog.md tras merge de PR #7 (c64528d)
 - Merge pull request #7 from tareas-jco/feature/sample-pr
 
 feat: Update README.md (d135239)
